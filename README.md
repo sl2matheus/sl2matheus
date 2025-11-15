@@ -2,19 +2,19 @@
 
 
 
-## 🚀 About Me
+## About Me
 
 I am a **Computer Engineering** student at **PUCCAMP** (Pontifical Catholic University of Campinas) with a deep passion for **Artificial Intelligence**.
 
 My primary life goal is to become an expert in this field, exploring how AI can solve complex problems and drive innovation. I am dedicating my studies and projects to building a solid career in AI.
 
-* 🎓 Studying Computer Engineering at **PUCCAMP**.
-* 🧠 Main focus: **Artificial Intelligence**, **Machine Learning**, and **Deep Learning**.
-* 🎯 Objective: To master AI tools and concepts to create impactful solutions.
+*  Studying Computer Engineering at **PUCCAMP**.
+*  Main focus: **Artificial Intelligence**, **Machine Learning**, and **Deep Learning**.
+*  Objective: To master AI tools and concepts to create impactful solutions.
 
 
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 I am focused on learning and honing my skills in the core technologies for AI development:
 
